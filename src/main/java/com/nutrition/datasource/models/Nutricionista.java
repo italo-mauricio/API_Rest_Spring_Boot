@@ -1,4 +1,4 @@
-package com.nutrition.models;
+package com.nutrition.datasource.models;
 
 import java.time.LocalDate;
 
