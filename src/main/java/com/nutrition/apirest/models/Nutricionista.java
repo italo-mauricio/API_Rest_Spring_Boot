@@ -1,4 +1,4 @@
-package com.produtos.apirest.models;
+package com.nutrition.apirest.models;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
@@ -11,7 +11,7 @@ import jakarta.persistence.Table;
 
 @Entity
 @Table(name="TB_PRODUTO")
-public class Produto implements Serializable{
+public class Nutricionista implements Serializable{
 	
 	private static final long serialVersionUID = 1l;
 	

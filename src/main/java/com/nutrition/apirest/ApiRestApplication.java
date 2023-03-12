@@ -1,4 +1,4 @@
-package com.produtos.apirest;
+package com.nutrition.apirest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
